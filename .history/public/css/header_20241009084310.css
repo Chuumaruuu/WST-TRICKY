@@ -1,0 +1,19 @@
+*{
+    color: red;
+    background-color: green;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2.5rem;
+    background: rgba(255,255,255,0.543);
+
+    .logo{
+        width: 50px;
+    }
+
+    .nav{
+        display: ;
+    }
+}
